@@ -1,5 +1,5 @@
 # explorills_BridgeEscrow Contract
-Non-custodial ERC721 cross-chain escrow for explorills_Nodes that facilitates token transfers and balance management
+Non-custodial ERC721 cross-chain escrow for explorills_Nodes that facilitates token transfers
 
 ## General Functionality
 1. Facilitates secure cross-chain token transfers
